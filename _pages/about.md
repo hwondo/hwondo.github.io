@@ -6,7 +6,7 @@ subtitle: PhD Student in Mathematics at the University of Sydney
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 
 news: false # includes a list of news items
