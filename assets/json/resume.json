@@ -2,18 +2,9 @@
   "basics": {
     "name": "Hosea Wondo",
     "label": "PhD Student",
-    "image": "",
     "email": "h.wondo@maths.usyd.edu.au",
     "phone": "0468 510 329",
     "url": "https://hwondo.github.io/",
-    "summary": "",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
   }
   "work": [
     {
