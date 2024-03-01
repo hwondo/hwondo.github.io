@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research Areas: Kahler geometry, Kahler-Ricic Flow, Continuity equation.
+description: Kahler geometry, Kahler-Ricic Flow, Continuity equation.
 nav: true
 nav_order: 2
 ---
