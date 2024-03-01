@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: PhD Student in Mathematics at the University of Sydney
 
