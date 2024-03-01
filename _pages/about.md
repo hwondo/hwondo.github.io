@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Sydney. My research area is in complex differential geometry, specifically looking at geometric flows. 
+I am a PhD student at the University of Sydney. My research area is complex differential geometry, specifically at geometric flows. 
