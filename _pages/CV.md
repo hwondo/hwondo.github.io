@@ -7,5 +7,5 @@ nav: true
 nav_order: 6
 ---
 
-My CV can be found [here](assets/pdf/Academic_CV.pdf) 
+My CV can be found [here](https://hwondo.github.io/assets/pdf/Academic_CV.pdf) 
 
